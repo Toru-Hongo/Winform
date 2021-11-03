@@ -25,6 +25,7 @@ namespace Apt
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "Well come Git";
+            textBox1.Text = "";
 
         }
     }
