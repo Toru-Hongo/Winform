@@ -58,5 +58,10 @@ namespace Apt
 
 
         }
+
+        private void 終了XToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
