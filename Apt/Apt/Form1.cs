@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Apt
@@ -37,6 +30,7 @@ namespace Apt
             textBox1.Text = "12";
             textBox2.Text = "34";
             listBox1.Items.Clear();
+            label2.Text = "Param 2";
 
         }
         /// <summary>
